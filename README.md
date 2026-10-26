@@ -19,7 +19,7 @@ Sistem ini dibuat menggunakan PHP dan MySQL untuk membantu pengelolaan data buku
 - Laragon
 
 ## Struktur Project
-
+```text
 perpustakaan/
 ├── config/
 │   └── koneksi.php
@@ -34,6 +34,7 @@ perpustakaan/
 ├── bahasa.php
 ├── style.css
 └── db_perpustakaan.sql
+```
 
 ## Cara Menjalankan
 
