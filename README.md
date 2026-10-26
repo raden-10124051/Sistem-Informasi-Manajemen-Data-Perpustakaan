@@ -1,5 +1,5 @@
 ### Sistem Informasi Manajemen Data Buku Perpustakaan
-Repository ini berisi Sistem Informasi Manajemen Data Buku Perpustakaan yang dibuat untuk memenuhi Tugas 2 dan Tugas 3 pada mata kuliah Penerapan Teknologi Internet yang diampu oleh Bapak Donny Reza, M.Kom.
+Repository ini berisi Sistem Informasi Manajemen Data Buku Perpustakaan yang dibuat untuk memenuhi Tugas 2 pada mata kuliah Penerapan Teknologi Internet yang diampu oleh Bapak Donny Reza, M.Kom.
 Sistem ini dibuat menggunakan PHP dan MySQL untuk membantu pengelolaan data buku perpustakaan melalui fitur CRUD, login, validasi data, dan dukungan bahasa Indonesia serta bahasa Inggris.
 
 #### Identitas
