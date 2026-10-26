@@ -44,8 +44,8 @@ perpustakaan/
 C:\laragon\www\
 
 3. Jalankan Apache dan MySQL melalui Laragon.
-4. Import file `db_perpustakaan.sql` ke MySQL.
-5. Pastikan konfigurasi database pada `config/koneksi.php` sesuai dengan database lokal.
+4. Import file db_perpustakaan.sql ke MySQL.
+5. Pastikan konfigurasi database pada config/koneksi.php sesuai dengan database lokal.
 6. Buka aplikasi melalui:
 
 http://localhost/perpustakaan/login.php
@@ -57,6 +57,6 @@ Password: admin123
 
 ## Catatan
 
-Project ini dibuat untuk keperluan tugas perkuliahan dan dijalankan pada lingkungan server lokal menggunakan Laragon. File `db_perpustakaan.sql` disediakan untuk mempermudah proses setup database.
+Project ini dibuat untuk keperluan tugas perkuliahan dan dijalankan pada lingkungan server lokal menggunakan Laragon. File db_perpustakaan.sql disediakan untuk mempermudah proses setup database.
 
 Dokumentasi dan penjelasan lebih lengkap mengenai sistem, alur kerja, implementasi, serta pengujian terdapat pada laporan tugas.
